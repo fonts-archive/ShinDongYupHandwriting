@@ -7,7 +7,7 @@
 ### CSS
 
 ```
-font-family: 'ShinDongYupHandwriting', serif;
+font-family: 'ShinDongYupHandwriting';
 ```
 
 &nbsp;
@@ -32,7 +32,7 @@ font-family: 'ShinDongYupHandwriting', serif;
 
 ```
 @font-face {
-    font-family: 'ShinDongYupHandwriting', serif;
+    font-family: 'ShinDongYupHandwriting';
     font-weight: 400;
     font-style: normal;
     font-display: swap;
@@ -42,7 +42,7 @@ font-family: 'ShinDongYupHandwriting', serif;
          url('https://cdn.jsdelivr.net/gh/fonts-archive/ShinDongYupHandwriting/ShinDongYupHandwriting-Regular.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'ShinDongYupHandwriting', serif;
+    font-family: 'ShinDongYupHandwriting';
     font-weight: 700;
     font-style: normal;
     font-display: swap;
